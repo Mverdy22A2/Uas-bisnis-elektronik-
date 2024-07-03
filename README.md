@@ -19,5 +19,6 @@ Nim : 312210214
 
 ![Screenshot (31)](https://github.com/Mverdy22A2/Uas-bisnis-elektronik-/assets/115523263/aafa9d09-83a1-488d-9b01-dd074f827184)
 
-Video :
+## Video Presentasi :
 
+https://drive.google.com/file/d/1PHNEVv29GBVh4js2r1HykcUHsF3e8UxX/view?usp=drive_link
